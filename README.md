@@ -1,4 +1,4 @@
-# rfco
+# rfje
 
 jsonengine (https://code.google.com/p/jsonengine/) was built to store generic/any json documents in google appengine/datastore. 
 It was built using google appengine and slim3.
